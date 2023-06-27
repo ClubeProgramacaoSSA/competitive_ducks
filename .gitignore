@@ -1,0 +1,61 @@
+# Compiled binary files
+*.exe
+*.out
+*.o
+
+# Compiled object files
+*.pyc
+*.pyo
+*.class
+
+# Compiled Java bytecode
+*.jar
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Dependencies and package managers
+/node_modules/
+/.venv/
+/pipenv/
+/pipfile.lock
+
+# Build output
+/build/
+/dist/
+/out/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.iml
+*.log
+
+# Language-specific files and directories
+# Python
+__pycache__/
+*.pyc
+
+# C
+*.o
+
+# C++
+*.out
+
+# Java
+*.class
+*.jar
+
+# Other language-specific entries...
+
+# Ignore specific files or directories
+# example.py
+# example_directory/
