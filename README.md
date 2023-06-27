@@ -4,7 +4,7 @@
 
 <div align="center">
 	<a href="link_for_webite">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "https://github.com/ClubeProgramacaoSSA/competitive_ducks/assets/80331486/d596bd39-bc1d-4b33-ae2b-58f74b9780f5" />
     </a>
 </div>
 
